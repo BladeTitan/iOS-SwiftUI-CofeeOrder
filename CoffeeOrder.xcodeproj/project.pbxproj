@@ -24,6 +24,7 @@
 		267AD20823C300D300E10065 /* CoffeeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD20723C300D300E10065 /* CoffeeViewModel.swift */; };
 		267AD20A23C3076600E10065 /* AddCoffeeOrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD20923C3076600E10065 /* AddCoffeeOrderView.swift */; };
 		267AD20C23C30C4400E10065 /* OrderTotalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD20B23C30C4400E10065 /* OrderTotalView.swift */; };
+		2692609A23D06C0F001BD0DD /* OrderListCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2692609923D06C0F001BD0DD /* OrderListCellView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		267AD20723C300D300E10065 /* CoffeeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeViewModel.swift; sourceTree = "<group>"; };
 		267AD20923C3076600E10065 /* AddCoffeeOrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeeOrderView.swift; sourceTree = "<group>"; };
 		267AD20B23C30C4400E10065 /* OrderTotalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTotalView.swift; sourceTree = "<group>"; };
+		2692609923D06C0F001BD0DD /* OrderListCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListCellView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				267AD20123BF5D8300E10065 /* OrderListView.swift */,
 				267AD20923C3076600E10065 /* AddCoffeeOrderView.swift */,
 				267AD20B23C30C4400E10065 /* OrderTotalView.swift */,
+				2692609923D06C0F001BD0DD /* OrderListCellView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				267AD1E023BF5AF800E10065 /* SceneDelegate.swift in Sources */,
 				267AD20423BF641400E10065 /* CreateOrderResponse.swift in Sources */,
 				267AD20023BF5D7500E10065 /* OrderListViewModel.swift in Sources */,
+				2692609A23D06C0F001BD0DD /* OrderListCellView.swift in Sources */,
 				267AD1FA23BF5C0400E10065 /* OrderService.swift in Sources */,
 				267AD20223BF5D8300E10065 /* OrderListView.swift in Sources */,
 				267AD1F523BF5B2300E10065 /* Order.swift in Sources */,
