@@ -17,7 +17,6 @@
 		267AD1F723BF5B3A00E10065 /* Coffee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD1F623BF5B3A00E10065 /* Coffee.swift */; };
 		267AD1FA23BF5C0400E10065 /* OrderService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD1F923BF5C0400E10065 /* OrderService.swift */; };
 		267AD1FC23BF5CF900E10065 /* OrderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD1FB23BF5CF900E10065 /* OrderViewModel.swift */; };
-		267AD1FE23BF5D1000E10065 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD1FD23BF5D1000E10065 /* OrderView.swift */; };
 		267AD20023BF5D7500E10065 /* OrderListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD1FF23BF5D7500E10065 /* OrderListViewModel.swift */; };
 		267AD20223BF5D8300E10065 /* OrderListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD20123BF5D8300E10065 /* OrderListView.swift */; };
 		267AD20423BF641400E10065 /* CreateOrderResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267AD20323BF641400E10065 /* CreateOrderResponse.swift */; };
@@ -40,7 +39,6 @@
 		267AD1F623BF5B3A00E10065 /* Coffee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coffee.swift; sourceTree = "<group>"; };
 		267AD1F923BF5C0400E10065 /* OrderService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderService.swift; sourceTree = "<group>"; };
 		267AD1FB23BF5CF900E10065 /* OrderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewModel.swift; sourceTree = "<group>"; };
-		267AD1FD23BF5D1000E10065 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		267AD1FF23BF5D7500E10065 /* OrderListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListViewModel.swift; sourceTree = "<group>"; };
 		267AD20123BF5D8300E10065 /* OrderListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListView.swift; sourceTree = "<group>"; };
 		267AD20323BF641400E10065 /* CreateOrderResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateOrderResponse.swift; sourceTree = "<group>"; };
@@ -128,7 +126,6 @@
 			children = (
 				267AD1E123BF5AF800E10065 /* ContentView.swift */,
 				267AD20123BF5D8300E10065 /* OrderListView.swift */,
-				267AD1FD23BF5D1000E10065 /* OrderView.swift */,
 				267AD20923C3076600E10065 /* AddCoffeeOrderView.swift */,
 				267AD20B23C30C4400E10065 /* OrderTotalView.swift */,
 			);
@@ -216,7 +213,6 @@
 			files = (
 				267AD1DE23BF5AF800E10065 /* AppDelegate.swift in Sources */,
 				267AD20623BF650100E10065 /* AddCoffeeOrderViewModel.swift in Sources */,
-				267AD1FE23BF5D1000E10065 /* OrderView.swift in Sources */,
 				267AD20A23C3076600E10065 /* AddCoffeeOrderView.swift in Sources */,
 				267AD20C23C30C4400E10065 /* OrderTotalView.swift in Sources */,
 				267AD1E023BF5AF800E10065 /* SceneDelegate.swift in Sources */,
